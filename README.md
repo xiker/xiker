@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **xiker/xiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Xiker</h1>
+<p>Soy técnico en desarrollo de aplicaciones web y estudiante de ingeniería en electrónica industrial y automática.</p>
+<p>Estoy aquí por lo mismo que todos. Por el código.</p>
